@@ -34,7 +34,7 @@ To add Trinity Bot to your Discord server, follow these steps:
 
 ### Invite Trinity Bot
 
-1. Visit the [Trinity Bot invite link](https://discord.com/api/oauth2/authorize?client_id=1167583910931206276&permissions=1206948252029685780&scope=applications.commands%20bot).
+1. Visit the [Trinity Bot invite link](https://discord.com/oauth2/authorize?client_id=1206948252029685780&permissions=10430264634623&scope=applications.commands%20bot).
 2. Select the server you want to add Trinity Bot to.
 3. Click on the "Authorize" button.
 
